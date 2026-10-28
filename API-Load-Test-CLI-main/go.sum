@@ -1,0 +1,4 @@
+github.com/caio/go-tdigest/v5 v5.0.0 h1:XQKgYSazZPbWFDAJ51dKqoZoDrISmTrB8UcWwCmfo6Y=
+github.com/caio/go-tdigest/v5 v5.0.0/go.mod h1:wI618wZoAYzIDZlpX2CfyTQdrdGtwEZOJuXdrI3zk/Y=
+golang.org/x/time v0.16.0 h1:vMb6ptszcQMkcwiRTAuNNU50gom6++Q/6gY2hDM6VDE=
+golang.org/x/time v0.16.0/go.mod h1:rVKOqvZeKvrDKTQiAHJ7wmwP0RzleSphoEA9RcdLA0s=
